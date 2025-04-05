@@ -123,4 +123,17 @@ return [
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
 
+    /*
+    |--------------------------------------------------------------------------
+    | Application Settings
+    |--------------------------------------------------------------------------
+    |
+    | This file contains application-specific settings that can be customized
+    | based on the environment.
+    |
+    */
+
+    'exchange_rate' => env('EXCHANGE_RATE', 0.85),
+    'price_notification_email' => env('PRICE_NOTIFICATION_EMAIL', 'admin@example.com'),
+
 ];
