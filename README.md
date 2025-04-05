@@ -1,4 +1,4 @@
-# Laravel App-Front Test SOlution -  Product Management Application
+# Laravel App-Front Test Solution -  Product Management Application
 
 This is an improved version of an existing Laravel-based product management application. The application displays a list of products, individual product details, and includes an admin interface for editing products, along with a command-line interface for bulk editing. 
 
